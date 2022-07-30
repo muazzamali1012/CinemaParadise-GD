@@ -2,6 +2,7 @@ import React from 'react';
 import Header from '../common/Header';
 import ImgBackground from '../../assets/img/Group 2218.png';
 
+
 function MainImage() {
     return (
         <>
