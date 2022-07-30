@@ -49,7 +49,7 @@ function Favourite() {
                                         <img
                                             onClick={() => clickMovie(favourite.id)}
                                             class="image"
-                                            src={'https://res.cloudinary.com/dwzjr9dg5/' + favourite.image_mobile}
+                                            src={'https://res.cloudinary.com/www-techis-io/' + favourite.image_mobile}
                                             alt=""
                                         />
                                     </div>
