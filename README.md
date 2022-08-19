@@ -25,7 +25,7 @@ Check out [API LIVE DEMO](https://backcinema.herokuapp.com/) here!!
 1. Git Clone
 
 ```
-git clone
+git clone https://github.com/muazzamali1012/CinemaParadise-GD.git
 ```
 
 2. Backend setting
